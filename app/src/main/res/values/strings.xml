@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompanySite</string>
+    <string name="about">ABOUT:</string>
+    <string name="about_description">Plac Nowy in Kraków is one of the most famous places serving zapiekanki. \n\nA zapiekanka is an open-face sandwich made of half of a baguette or other long roll of bread, topped with sautéed white mushrooms, cheese and sometimes other ingredients, and toasted until the cheese melts. Served hot with ketchup, it is a popular street food in Poland.</string>
+    <string name="shoppingHours">Shopping hours:\nEveryday: 10AM - 2PM</string>
+    <string name="localization">Localization:\nKraków, plac Nowy 4B</string>
+</resources>
